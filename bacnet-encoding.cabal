@@ -104,6 +104,24 @@ Test-Suite tests
                   hspec-expectations,
                   HUnit,
                   numeric-limits
+  other-modules:  BACnet.Encodable
+                  BACnet.EncodableSpec
+                  BACnet.Prim
+                  BACnet.PrimSpec
+                  BACnet.Reader
+                  BACnet.Reader.Core
+                  BACnet.ReaderSpec
+                  BACnet.Tag.Core
+                  BACnet.Tag.CoreSpec
+                  BACnet.Tag.Reader
+                  BACnet.Tag.Writer
+                  BACnet.TagSpec
+                  BACnet.Writer
+                  BACnet.Writer.Core
+                  BACnet.Writer.UnfoldNum
+                  BACnet.Writer.WriterC
+                  BACnet.Writer.WriterCSpec
+                  BACnet.WriterSpec
 
   default-language:    Haskell2010
 

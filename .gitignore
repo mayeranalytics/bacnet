@@ -8,3 +8,4 @@ cabal-dev
 *.swp
 cabal.sandbox.config
 .cabal-sandbox/
+.stack-work
